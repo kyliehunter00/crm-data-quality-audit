@@ -1,0 +1,81 @@
+Account ID,Account Name,Contact Email,Phone,State,Lifecycle Stage,Account Owner,Annual Value ($)
+ACC-0001,Summit Logistics 001,contact1@example.org,702-555-1001,CA,Qualified,Morgan Smith,8164.37
+ACC-0002,Silver Ridge Dental 002,contact2@example.org,702-555-1002,AZ,Customer,Taylor Kim,12235.68
+ACC-0003,Horizon Media 003,contact3@example.org,702-555-1003,TX,Inactive,Alex Rivera,14435.08
+ACC-0004,Cedarstone Partners 004,contact4@example.org,702-555-1004,TN,Prospect,Jordan Lee,4841.64
+ACC-0005,Copperline Retail 005,contact5@example.org,702-555-1005,NV,Qualified,Morgan Smith,11655.34
+ACC-0006,Pioneer Health 006,contact6@example.org,702-555-1006,CA,Customer,Taylor Kim,10770.34
+ACC-0007,Northstar Manufacturing 007,,702-555-1007,AZ,Inactive,Alex Rivera,10157.78
+ACC-0008,Canyon Data 008,contact8@example.org,702-555-1008,TX,Prospect,Jordan Lee,2275.32
+ACC-0009,Evergreen Services 009,contact9@example.org,702-555-1009,TN,Qualified,Morgan Smith,1085.2
+ACC-0010,Valley Tech 010,contact10@example.org,702-555-1010,NV,Customer,Taylor Kim,6193.65
+ACC-0011,Orion Travel 011,contact11@example.org,,CA,Inactive,Alex Rivera,11373.45
+ACC-0012,Blue Mesa Consulting 012,contact12@example.org,702-555-1012,AZ,Prospect,Jordan Lee,4309.09
+ACC-0013,Sierra Office 013,contact13@example.org,702-555-1013,,Qualified,Morgan Smith,7872.92
+ACC-0014,Atlas Delivery 014,contact14@example.org,702-555-1014,TN,Customer,Taylor Kim,5239.32
+ACC-0015,Westlake Holdings 015,contact15@example.org,702-555-1015,NV,Inactive,Alex Rivera,12802.49
+ACC-0016,Cobalt Solutions 016,contact16@example.org,702-555-1016,CA,,Jordan Lee,14216.27
+ACC-0017,Arbor Equipment 017,contact17@example.org,702-555-1017,AZ,Qualified,Morgan Smith,6442.75
+ACC-0018,Aspen Facilities 018,contact18@example.org,702-555-1018,TX,Customer,Taylor Kim,14977.79
+ACC-0019,Brightline Systems 019,,702-555-1019,TN,Inactive,Alex Rivera,1589.36
+ACC-0020,Desert Peak Supply 020,contact20@example.org,702-555-1020,NV,Prospect,Jordan Lee,12320.31
+ACC-0021,Summit Logistics 021,contact21@example.org,702-555-1021,CA,Qualified,Morgan Smith,13217.03
+ACC-0022,Silver Ridge Dental 022,contact22@example.org,702-555-1022,AZ,Customer,Taylor Kim,2858.09
+ACC-0023,Horizon Media 023,contact23@example.org,702-555-1023,TX,Inactive,Alex Rivera,10789.63
+ACC-0024,Cedarstone Partners 024,not-an-email,702-555-1024,TN,Prospect,Jordan Lee,8692.15
+ACC-0025,Copperline Retail 025,contact25@example.org,702-555-1025,NV,Qualified,Morgan Smith,14359.19
+ACC-0026,Pioneer Health 026,contact26@example.org,702-555-1026,CA,Customer,Taylor Kim,3703.14
+ACC-0027,Northstar Manufacturing 027,contact27@example.org,702-555-1027,AZ,Inactive,Alex Rivera,8421.48
+ACC-0028,Canyon Data 028,contact28@example.org,702-555-1028,TX,Prospect,Jordan Lee,13319.12
+ACC-0029,Evergreen Services 029,contact29@example.org,702-555-1029,TN,Qualified,Morgan Smith,9834.46
+ACC-0030,Valley Tech 030,contact30@example.org,702-555-1030,NV,Customer,Taylor Kim,5121.55
+ACC-0031,Orion Travel 031,contact31@example.org,,CA,Inactive,Alex Rivera,1870.65
+ACC-0032,Blue Mesa Consulting 032,contact32@example.org,702-555-1032,AZ,Prospect,Jordan Lee,14138.8
+ACC-0033,Sierra Office 033,contact33@example.org,702-555-1033,TX,Qualified,Morgan Smith,7479.61
+ACC-0034,Atlas Delivery 034,contact34@example.org,702-555-1034,TN,Customer,Taylor Kim,14947.46
+ACC-0035,Westlake Holdings 035,contact35@example.org,702-555-1035,NV,Inactive,Alex Rivera,2724.98
+ACC-0036,Cobalt Solutions 036,contact36@example.org,702-555-1036,,Prospect,Jordan Lee,12314.52
+ACC-0037,Arbor Equipment 037,contact37@example.org,702-555-1037,AZ,Qualified,Morgan Smith,12331.31
+ACC-0038,Aspen Facilities 038,,702-555-1038,TX,Customer,Taylor Kim,13855.64
+ACC-0039,Brightline Systems 039,contact39@example.org,702-555-1039,TN,Inactive,Alex Rivera,955.03
+ACC-0040,Desert Peak Supply 040,contact40@example.org,702-555-1040,NV,Prospect,Jordan Lee,6022.36
+ACC-0041,Summit Logistics 041,contact41@example.org,702-555-1041,CA,Qualified,Morgan Smith,1438.87
+ACC-0042,Blue Mesa Consulting 012,contact42@example.org,702-555-1042,AZ,Customer,Taylor Kim,11454.1
+ACC-0043,Horizon Media 043,contact43@example.org,702-555-1043,TX,Inactive,Alex Rivera,5771.38
+ACC-0044,Cedarstone Partners 044,contact44@example.org,702-555-1044,TN,Prospect,Jordan Lee,14420.92
+ACC-0045,Copperline Retail 045,contact45@example.org,702-555-1045,NV,Qualified,Morgan Smith,6060.05
+ACC-0046,Pioneer Health 046,contact46@example.org,702-555-1046,CA,,Taylor Kim,11773.56
+ACC-0047,Northstar Manufacturing 047,contact47@example.org,702-555-1047,AZ,Inactive,Alex Rivera,13109.38
+ACC-0048,Canyon Data 048,not-an-email,702-555-1048,TX,Prospect,Jordan Lee,4116.94
+ACC-0049,Evergreen Services 049,contact49@example.org,702-555-1049,TN,Qualified,Morgan Smith,8662.48
+ACC-0050,Valley Tech 050,contact50@example.org,702-555-1050,NV,Customer,Taylor Kim,14390.71
+ACC-0051,Orion Travel 051,contact51@example.org,702-555-1051,CA,Inactive,Alex Rivera,8234.92
+ACC-0052,Blue Mesa Consulting 052,contact52@example.org,702-555-1052,AZ,Prospect,Jordan Lee,5843.82
+ACC-0053,Sierra Office 053,contact53@example.org,702-555-1053,TX,Qualified,Morgan Smith,4520.97
+ACC-0054,Atlas Delivery 054,,702-555-1054,TN,Customer,Taylor Kim,11946.52
+ACC-0055,Westlake Holdings 055,contact55@example.org,702-555-1055,NV,Inactive,Alex Rivera,3456.29
+ACC-0056,Cobalt Solutions 056,contact56@example.org,702-555-1056,CA,Prospect,Jordan Lee,9335.72
+ACC-0057,Arbor Equipment 057,contact57@example.org,702-555-1057,AZ,Qualified,Morgan Smith,8644.31
+ACC-0058,Canyon Data 028,contact58@example.org,702-555-1058,TX,Customer,Taylor Kim,8614.78
+ACC-0059,Brightline Systems 059,contact59@example.org,,TN,Inactive,Alex Rivera,2551.65
+ACC-0060,Desert Peak Supply 060,contact60@example.org,702-555-1060,NV,Prospect,Jordan Lee,10117.48
+ACC-0061,Summit Logistics 061,contact61@example.org,702-555-1061,CA,Qualified,Morgan Smith,13806.37
+ACC-0062,Silver Ridge Dental 062,contact62@example.org,702-555-1062,AZ,Customer,Taylor Kim,5259.97
+ACC-0063,Horizon Media 063,contact63@example.org,702-555-1063,TX,Inactive,Alex Rivera,5448.65
+ACC-0064,Cedarstone Partners 064,contact64@example.org,702-555-1064,TN,Prospect,Jordan Lee,13699.28
+ACC-0065,Copperline Retail 065,contact65@example.org,702-555-1065,NV,Qualified,Morgan Smith,8970.34
+ACC-0066,Pioneer Health 066,contact66@example.org,702-555-1066,,Customer,Taylor Kim,4597.86
+ACC-0067,Northstar Manufacturing 067,contact67@example.org,702-555-1067,AZ,Inactive,Alex Rivera,839.62
+ACC-0068,Canyon Data 068,contact68@example.org,702-555-1068,TX,Prospect,Jordan Lee,11471.75
+ACC-0069,Evergreen Services 069,,702-555-1069,TN,Qualified,Morgan Smith,5676.46
+ACC-0070,Valley Tech 070,contact70@example.org,702-555-1070,NV,Customer,Taylor Kim,7380.37
+ACC-0071,Orion Travel 071,contact71@example.org,702-555-1071,CA,,Alex Rivera,4596.79
+ACC-0072,Blue Mesa Consulting 072,not-an-email,702-555-1072,AZ,Prospect,Jordan Lee,9753.36
+ACC-0073,Sierra Office 073,contact73@example.org,702-555-1073,TX,Qualified,Morgan Smith,11124.48
+ACC-0074,Atlas Delivery 074,contact74@example.org,,TN,Customer,Taylor Kim,5129.97
+ACC-0075,Westlake Holdings 035,contact75@example.org,702-555-1075,NV,Inactive,Alex Rivera,1772.93
+ACC-0076,Cobalt Solutions 076,contact76@example.org,702-555-1076,CA,Prospect,Jordan Lee,14811.1
+ACC-0077,Arbor Equipment 077,contact77@example.org,702-555-1077,AZ,Qualified,Morgan Smith,13713.59
+ACC-0078,Aspen Facilities 078,,702-555-1078,TX,Customer,Taylor Kim,995.46
+ACC-0079,Brightline Systems 079,contact79@example.org,702-555-1079,TN,Inactive,Alex Rivera,8767.84
+ACC-0080,Desert Peak Supply 020,contact80@example.org,702-555-1080,NV,Prospect,Jordan Lee,10509.78
